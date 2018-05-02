@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntencionesImplicitas</string>
+    <string name="btn4">Cámara</string>
+    <string name="btn1">Llamada</string>
+    <string name="btn2">Correo</string>
+    <string name="btn3">Página web</string>
+    <string name="btn5">Mensaje</string>
+</resources>
